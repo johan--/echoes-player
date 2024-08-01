@@ -44,7 +44,7 @@
     "@types/gapi.youtube": "3.0.31",
     "@types/jasmine": "2.5.38",
     "@types/youtube": "0.0.28",
-    "bootstrap-sass": "3.3.7",
+    "bootstrap-sass": "3.4.1",
     "codelyzer": "~2.0.0",
     "font-awesome": "4.7.0",
     "jasmine-core": "~2.5.2",
